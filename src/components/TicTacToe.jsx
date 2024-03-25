@@ -107,7 +107,7 @@ function TicTacToe() {
 
   return (
     <div>
-      <h1>Tic Tac Toe</h1>
+      <h1>دوز</h1>
       <Board
         playerTurn={playerTurn}
         tiles={tiles}
